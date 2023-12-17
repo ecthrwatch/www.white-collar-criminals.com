@@ -165,6 +165,10 @@ My efforts to alert the FBI about the activities of McDonald’s Corporation beg
 
 
 
+<meta property="og:locale:alternate" content="fr" />
+
+
+
 
 <meta property="og:site_name" content="White-collar-criminals.com" />
 
@@ -219,6 +223,19 @@ My efforts to alert the FBI about the activities of McDonald’s Corporation beg
                     <span class="px-4 py-1 hover:text-eureka" name="Auto">Auto</span>
                 </div>
             </div>
+            <div class="relative pt-4 ps-4 md:pt-0">
+                <div class="cursor-pointer hover:text-eureka" id="languageMode">
+                    <i class="fas fa-globe"></i>
+                    <span class="ps-1">English</span>
+                </div>
+                <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open-lang">
+                </div>
+                <div class="absolute flex flex-col start-0 md:start-auto end-auto md:end-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
+                    id='languageOptions'>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://www.white-collar-criminals.com/authors/vincent-b-le-corre/">English</a>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://www.criminels-en-col-blanc.com/authors/vincent-b-le-corre/">French - Français</a>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -246,6 +263,7 @@ My efforts to alert the FBI about the activities of McDonald’s Corporation beg
     document.addEventListener('DOMContentLoaded', () => {
         getcolorscheme();
         switchBurger();
+        switchLanguage()
     });
 </script>
 </div>
