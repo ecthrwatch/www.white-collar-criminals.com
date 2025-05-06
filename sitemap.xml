@@ -163,6 +163,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://www.bailingzuifan.com/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.white-collar-criminals.com/authors/vincent-b-le-corre/"
                 />
@@ -189,6 +194,11 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.criminels-en-col-blanc.com/authors/x/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bailingzuifan.com/authors/x/"
                 />
     <xhtml:link
                 rel="alternate"
