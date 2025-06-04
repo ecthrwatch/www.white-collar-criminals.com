@@ -188,22 +188,5 @@
                 hreflang="en"
                 href="https://www.white-collar-criminals.com/"
                 />
-  </url><url>
-    <loc>https://www.white-collar-criminals.com/authors/x/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.criminels-en-col-blanc.com/authors/x/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.bailingzuifan.com/authors/x/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.white-collar-criminals.com/authors/x/"
-                />
   </url>
 </urlset>
